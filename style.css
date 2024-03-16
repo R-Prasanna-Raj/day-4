@@ -1,0 +1,32 @@
+body{
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+img{
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    
+    justify-content: space-evenly;
+    
+    display: flex;
+}
+
+h1{
+    color: red;
+    
+    
+    display:flex
+}
+img:hover{
+    cursor: pointer;
+    height: 150px;
+    width: 150px;
+
+}
+.one{
+    display: flex;
+    justify-content: space-evenly;
+}
